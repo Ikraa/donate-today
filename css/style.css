@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+
+
+.banner-top {
+    background-image: url(/images/donation10.jpg);
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+
+
+}
+
+.donate_today {
+    text-align: center;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.donate_money {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.money_amount {
+    width: 136px;
+    height: 100px;
+    border: 2px #FAFAFA solid;
+    background-color: #FAFAFA;
+    color: #707070;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.amount {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.orange {
+    width: 136px;
+    height: 100px;
+    border: 2px #FF5959 solid;
+    background-color: #FFEEEE;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.orange_money {
+    color: #FF5959;
+}
+
+.input_field {
+    margin-top: 25px;
+    text-align: center;
+}
+
+input {
+    border: none;
+    margin: 4px;
+    padding: 4px;
+    outline-color: #707070;
+    margin-left: 10px;
+}
+
+hr {
+    width: 40%;
+}
+
+#donate_btn {
+    height: 52px;
+    width: 150px;
+    margin-top: 19px;
+    margin-right: 14px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    border: none;
+}
+
+.our-donate {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.our-donate-content {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.donate-plan-box {
+    display: flex;
+    justify-content: center;
+}
+
+.plan-box-1 {
+    width: 360px;
+    height: 300px;
+    margin: 15px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+
+.plan-box-2 {
+    width: 360px;
+    height: 300px;
+    margin: 15px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+.plan-box-3 {
+    width: 360px;
+    height: 300px;
+    margin: 15px;
+    border-radius: 5px;
+    background-color: #FFF4D6;
+
+}
+
+.plan-box-content {
+    justify-content: center;
+    padding: 0px 20px;
+}
+
+.box-title {
+    padding: 0px 20px;
+}
+
+.updates {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.update-email-filed {
+    align-items: center;
+    padding-top: 50px;
+}
+
+.update-form {
+    background-color: #FFF4D6;
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.email-filed {
+    width: 400px;
+    height: 33px;
+    padding: 10px;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+
+}
+
+footer {
+    height: 177px;
+    width: 100%;
+    text-align: center;
+    background-color: #0B0D17;
+    padding-top: 60px;
+
+}
