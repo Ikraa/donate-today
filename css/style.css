@@ -131,9 +131,15 @@ hr {
     justify-content: center;
 }
 
+.icon {
+    margin-left: 15px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+
 .plan-box-1 {
     width: 360px;
-    height: 300px;
+    height: 360px;
     margin: 15px;
     background: rgba(79, 157, 166, 0.1);
     border-radius: 5px;
@@ -141,7 +147,7 @@ hr {
 
 .plan-box-2 {
     width: 360px;
-    height: 300px;
+    height: 360px;
     margin: 15px;
     background: rgba(255, 89, 89, 0.1);
     border-radius: 5px;
@@ -149,7 +155,7 @@ hr {
 
 .plan-box-3 {
     width: 360px;
-    height: 300px;
+    height: 360px;
     margin: 15px;
     border-radius: 5px;
     background-color: #FFF4D6;
